@@ -11,7 +11,7 @@ running-code    :   learnyounode
 
 # LearnYouNode
 
-these are soem of the node practice to do for TYPESCRIPT
+these are some of the node practice to do for TYPESCRIPT
 
 
    LEARN YOU THE NODE.JS FOR MUCH WIN!                                        
